@@ -1094,11 +1094,11 @@ HTML_TEMPLATE = '''
     <div class="welcome-overlay" id="welcomeOverlay">
         <div class="welcome-modal">
             <button class="welcome-close-btn" onclick="closeWelcomeBanner()"><i class="fa-solid fa-xmark"></i></button>
-            <div class="welcome-title">আসসালামু আলাইকুম</div>
+<div class="welcome-title">HELLO BRO</div>
             <div class="welcome-subtitle">WELCOME TO SIYAM SPAM</div>
             <div class="welcome-text">আপনার ইচ্ছা হলে আমার টেলিগ্রামে জয়েন্ট হতে পারেন।</div>
-            <a href="https://t.me/MUZ4NNNN" target="_blank" class="welcome-btn-join" onclick="closeWelcomeBanner()">
-                <i class="fa-brands fa-telegram"></i> জয়েন্ট নেও
+            <a href="https://t.me/FFUIDALL" target="_blank" class="welcome-btn-join" onclick="closeWelcomeBanner()">
+                <i class="fa-brands fa-telegram"></i> JOIN NOW
             </a>
             <button class="welcome-btn-dismiss" onclick="closeWelcomeBanner()">OK</button>
         </div>
